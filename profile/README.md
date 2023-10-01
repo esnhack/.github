@@ -8,7 +8,8 @@ We are a French-based association of computer and hacking enthusiasts. Our missi
 
 ## 🔗 Connect with Us
 
-- 🌐 [Website](https://x.com/esnhack)
+- 🌐 [Website](https://esnhack.fr)
+- 🐦 [X](https://x.com/esnhack)
 - 💬 [Discord](https://discord.gg/6XnF5xre)
 - 💖 [Donations](https://www.helloasso.com/associations/esn-hack/formulaires/1)
 - 💼 [LinkedIn](https://fr.linkedin.com/company/asso-esnhack)
